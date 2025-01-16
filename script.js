@@ -2,7 +2,7 @@
 
 let secretNnumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
-document.querySelector(".number").textContent = secretNnumber;
+let highscore = 0;
 
 document.querySelector(".check").addEventListener("click", function () {
   const guess = Number(document.querySelector(".guess").value);
@@ -38,8 +38,15 @@ document.querySelector(".check").addEventListener("click", function () {
 
     // When guess is correct
   } else if (guess === secretNnumber) {
+    // Show the secret number
+    document.querySelector(".number").textContent = secretNnumber;
+
     document.querySelector(".message").textContent = "🎉 correct number!";
 
+    if (score > highscore) {
+      highscore = score;
+      document.querySelector(".highscore").textContent = highscore;
+    }
     // Change the background color
     document.querySelector("body").style.backgroundColor = "#60b347";
 
