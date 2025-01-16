@@ -1,6 +1,6 @@
 "use strict";
 
-const secretNnumber = Math.trunc(Math.random() * 20) + 1;
+let secretNnumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 document.querySelector(".number").textContent = secretNnumber;
 
@@ -70,4 +70,16 @@ document.querySelector(".check").addEventListener("click", function () {
       document.querySelector("body").style.backgroundColor = "#ff0000";
     }
   }
+});
+
+document.querySelector(".again").addEventListener("click", function () {
+  secretNnumber = Math.trunc(Math.random() * 20) + 1;
+  score = 20;
+  document.querySelector(".message").textContent = "Start guessing...";
+  document.querySelector(".number").textContent = "?";
+  document.querySelector(".score").textContent = score;
+  document.querySelector(".guess").value = null;
+
+  document.querySelector("body").style.backgroundColor = "#222";
+  document.querySelector(".number").style.width = "15rem";
 });
