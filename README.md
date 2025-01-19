@@ -90,7 +90,7 @@ Feel free to fork this project and submit pull requests with improvements. Some 
 ## 🙏 Acknowledgments
 
 - Font by Google Fonts
-- Inspired by Jonas Schmedtmann JavaScript course
+- Inspired by Jonas Schmedtmann's JavaScript course
 - Special thanks Jonas Schmedtmann
 
 <div align=center>Made with 💙 by Hadil Ben Abdallah</div> 
