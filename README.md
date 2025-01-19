@@ -13,12 +13,12 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 
 ## 🎮 How to Play
 
-1️⃣ The game randomly selects a number between 1 and 20
-2️⃣ Enter your guess in the input field
-3️⃣ Click "Check!" to submit your guess
-4️⃣ You'll receive feedback if your guess is too high or too low
-5️⃣ Each incorrect guess reduces your score by 1
-6️⃣ Try to guess the number with as few attempts as possible
+1️⃣ The game randomly selects a number between 1 and 20 <br>
+2️⃣ Enter your guess in the input field <br>
+3️⃣ Click "Check!" to submit your guess <br>
+4️⃣ You'll receive feedback if your guess is too high or too low <br>
+5️⃣ Each incorrect guess reduces your score by 1 <br>
+6️⃣ Try to guess the number with as few attempts as possible <br>
 7️⃣ Beat your high score!
 
 ## 🛠️ Technologies Used
