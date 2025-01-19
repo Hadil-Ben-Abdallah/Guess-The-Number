@@ -21,6 +21,10 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 6️⃣ Try to guess the number with as few attempts as possible <br>
 7️⃣ Beat your high score!
 
+<a href=""><img src="imgs/guess.png" width="450" height="500"/></a>
+<a href=""><img src="imgs/won.png" width="450" height="500"/></a>
+<a href=""><img src="imgs/lost.png" width="450" height="500"/></a>
+
 ## 🛠️ Technologies Used
 
 - HTML5
