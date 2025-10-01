@@ -100,4 +100,4 @@ Feel free to fork this project and submit pull requests with improvements. Some 
 - Inspired by Jonas Schmedtmann's JavaScript course
 - Special thanks Jonas Schmedtmann
 
-<div align=center>Made with 💙 by Hadil Ben Abdallah</div> 
+<h6 align="center">Made with 💙 By Hadil Ben Abdallah</h6>
