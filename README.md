@@ -2,7 +2,7 @@
 
 A fun and interactive number guessing game built with vanilla JavaScript where players try to guess a secret number between 1 and 20. The game features a clean, retro-inspired interface and includes engaging animations to celebrate victories.
 
-<div>Check out the game 🎮: <a href=https://guess-the-number-murex-omega.vercel.app/>Guess The Number</a></div>
+<div>Check out the game 🎮: <a href=https://guess-the-number-5jbw.onrender.com/>Guess The Number</a></div>
 
 ## 🎯 Game Features
 
