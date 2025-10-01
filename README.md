@@ -4,6 +4,8 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 
 <div>Check out the game 🎮: <a href=https://guess-the-number-5jbw.onrender.com/>Guess The Number</a></div>
 
+---
+
 ## 🎯 Game Features
 
 - **Intuitive Interface**: Clean and user-friendly design with retro-style fonts
@@ -12,6 +14,8 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 - **Dynamic Feedback**: Helpful hints tell you if your guess is too high or too low
 - **Victory Animation**: Celebratory confetti animation when you guess correctly
 - **Replay Option**: "Again!" button to start a new game while keeping your high score
+
+---
 
 ## 🎮 How to Play
 
@@ -28,12 +32,17 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 <a href=""><img src="imgs/won.png" width="400" height="450"/></a>
 <a href=""><img src="imgs/lost.png" width="400" height="450"/></a>
 
+---
+
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts (Press Start 2P)
+| Category   | Technology               |
+| ---------- | ------------------------ |
+| Frontend   | ![Tech Stack](https://skillicons.dev/icons?i=html,css,js) |
+| Font       | Google Fonts (Press Start 2P)                |
+| Deployment | Render                   |
+
+---
 
 ## 🎨 Design Features
 
@@ -42,6 +51,8 @@ A fun and interactive number guessing game built with vanilla JavaScript where p
 - Dynamic background color changes for win/lose states
 - Smooth animations and transitions
 - Interactive button hover effects
+
+---
 
 ## 🚀 Getting Started
 
@@ -53,6 +64,8 @@ git clone https://github.com/yourusername/number-guessing-game.git
 2. Open `index.html` in your preferred browser
 3. Start playing!
 
+---
+
 ## 📱 Browser Compatibility
 
 The game is compatible with all modern browsers:
@@ -60,6 +73,8 @@ The game is compatible with all modern browsers:
 - Firefox
 - Safari
 - Edge
+
+---
 
 ## 🔧 Development
 
@@ -75,6 +90,8 @@ To modify the game:
 - `style.css`: Game styling and animations
 - `script.js`: Game logic and functionality
 
+---
+
 ## 🎮 Game Rules
 
 - Initial score: 20 points
@@ -83,6 +100,8 @@ To modify the game:
 - Game ends when you:
   - Guess the correct number (Win! 🎉)
   - Score reaches 0 (Lose 😓)
+
+---
 
 ## 🤝 Contributing
 
@@ -94,10 +113,12 @@ Feel free to fork this project and submit pull requests with improvements. Some 
 - Add more animations
 - Implement a leaderboard system
 
+---
+
 ## 🙏 Acknowledgments
 
 - Font by Google Fonts
 - Inspired by Jonas Schmedtmann's JavaScript course
-- Special thanks Jonas Schmedtmann
+- Special thanks Jonas Schmedtmann 💛
 
 <h6 align="center">Made with 💙 By Hadil Ben Abdallah</h6>
