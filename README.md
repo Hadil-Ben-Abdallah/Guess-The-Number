@@ -84,7 +84,9 @@ To modify the game:
 2. Modify `script.js` to alter game logic
 3. Update `index.html` to change structure
 
-### Key Files
+---
+
+## 📂 Key Files
 
 - `index.html`: Main game structure
 - `style.css`: Game styling and animations
