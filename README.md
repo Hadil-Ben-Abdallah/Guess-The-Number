@@ -119,6 +119,6 @@ Feel free to fork this project and submit pull requests with improvements. Some 
 
 - Font by Google Fonts
 - Inspired by Jonas Schmedtmann's JavaScript course
-- Special thanks Jonas Schmedtmann 💛
+- Special thanks to Jonas Schmedtmann 💛
 
 <h6 align="center">Made with 💙 By Hadil Ben Abdallah</h6>
